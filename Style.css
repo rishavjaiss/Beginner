@@ -1,4 +1,13 @@
 *{
-    font-family: Verdana,helvetica,Arial;
-
+    font-family: Georgia, Times, 'Times New Roman', serif;
+}
+.heading>b{
+color:rgba(52, 151, 57, 0.678);
+font-size: large;
+}
+div{
+    margin-left: 350px;
+}
+h1{
+    margin-left: 350px;
 }
