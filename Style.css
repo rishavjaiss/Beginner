@@ -1,11 +1,14 @@
-*{
+*
+{
     font-family: Georgia, Times, 'Times New Roman', serif;
 }
-.heading>b{
+.heading>b
+{
 color:rgba(52, 151, 57, 0.678);
 font-size: large;
 }
-div{
+div
+{
     margin-left: 350px;
 }
 h1{
