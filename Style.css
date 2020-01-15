@@ -1,16 +1,40 @@
-*
-{
+*{
     font-family: Georgia, Times, 'Times New Roman', serif;
 }
-.heading>b
-{
-color:rgba(52, 151, 57, 0.678);
-font-size: large;
+.heading>b{
+    color:rgba(179, 70, 155, 0.678);
+    font-size: large;
 }
-div
-{
-    margin-left: 350px;
+#homestay{
+    padding: 15px 20px 15px 20px ;
+    font-size: small;
+    color:white;
+    background-color: rgb(17, 86, 107);
 }
-h1{
-    margin-left: 350px;
+body{
+    background-image: linear-gradient(seagreen,lightblue,pink);
+    margin-top:25px;
+    margin-left: 400px;
+    margin-right: 375px;
+}
+div .button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 5px;
+    width:300px;
+    border:none;
+    text-align: center;
+    display: inline-block;
+    font-size: auto;
+  }
+.icon{
+    margin-right: 10px;
+}
+nav{
+    height:40px;
+    margin-left: 550px;
+    color:white;
+}
+a{
+    margin-right: 5px;
 }
