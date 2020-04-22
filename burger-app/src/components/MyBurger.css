@@ -1,0 +1,14 @@
+.nav {
+  text-align: center;
+  padding: 10px;
+  background-color: rgb(153, 84, 20);
+  font-size: x-large;
+  color: white;
+}
+.center {
+  text-align: center;
+  margin: auto;
+  padding: 100px;
+  font-size: x-large;
+  width: 300px;
+}
